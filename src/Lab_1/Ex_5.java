@@ -19,7 +19,7 @@ public class Ex_5 {
 		System.out.println("enter the value of n");
 		int n = sc.nextInt();
 		System.out.println(calculateSum(n));
-		
+		System.out.println("abc");
 	sc.close();	
 	}
 }
